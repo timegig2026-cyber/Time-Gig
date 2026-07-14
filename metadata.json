@@ -1,0 +1,6 @@
+{
+  "name": "Referral Dashboard",
+  "description": "An application featuring a gig directory, professional seekers, a friend connections system, and a referral reward program.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
